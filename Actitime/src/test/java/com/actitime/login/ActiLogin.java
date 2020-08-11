@@ -7,6 +7,6 @@ public class ActiLogin {
 	public void run() {
 		Reporter.log("Hi Hello", true);
 		Reporter.log("Hi Hello", true);
-		Reporter.log("Hi Hello", true);
+	
 	}
 }
